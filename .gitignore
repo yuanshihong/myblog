@@ -1,0 +1,19 @@
+
+# Generated file
+dist
+distLecture
+.history
+map
+
+# Editor Configure
+.vscode
+.idea
+
+# Awesome Modules
+node_modules/
+
+# Foobar
+.DS_Store
+yarn-error.log
+npm-debug.log
+Gemfile.lock
